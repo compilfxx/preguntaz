@@ -174,7 +174,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 10:
            
-            document.getElementById('noBtn').innerHTML = 'Okay, I'll stop asking now...';
+            document.getElementById('noBtn').innerHTML = 'Okay, Ill stop asking now...';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
          
